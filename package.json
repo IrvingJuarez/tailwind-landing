@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrvingJuarez/tailwind-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IrvingJuarez/tailwind-landing/issues"
+  },
+  "homepage": "https://github.com/IrvingJuarez/tailwind-landing#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.15"
+  }
+}
